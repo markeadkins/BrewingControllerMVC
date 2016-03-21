@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrewingControllerMVC", "BrewingControllerMVC\BrewingControllerMVC.csproj", "{BC814208-21D5-44CD-8277-093FF8EA5071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrewingControllerMVC.Tests", "BrewingControllerMVC.Tests\BrewingControllerMVC.Tests.csproj", "{4B289AF4-02EB-4A39-B75A-7B8484E257F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC814208-21D5-44CD-8277-093FF8EA5071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC814208-21D5-44CD-8277-093FF8EA5071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC814208-21D5-44CD-8277-093FF8EA5071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC814208-21D5-44CD-8277-093FF8EA5071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B289AF4-02EB-4A39-B75A-7B8484E257F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B289AF4-02EB-4A39-B75A-7B8484E257F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B289AF4-02EB-4A39-B75A-7B8484E257F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B289AF4-02EB-4A39-B75A-7B8484E257F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
