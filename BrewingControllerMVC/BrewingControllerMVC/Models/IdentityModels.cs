@@ -13,5 +13,7 @@ namespace BrewingControllerMVC.Models
             : base("DefaultConnection")
         {
         }
+
+        public System.Data.Entity.DbSet<BrewingControllerMVC.Models.TempProbe> TempProbes { get; set; }
     }
 }
